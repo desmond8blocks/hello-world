@@ -1,4 +1,5 @@
 # hello-world
 Github tutorial 
 
-Hi there, example testing 123
+Hello - I am Des.
+I like japanese food, especially sushi!! 
